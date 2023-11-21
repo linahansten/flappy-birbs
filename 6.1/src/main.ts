@@ -39,7 +39,7 @@ window.addEventListener("keydown", (e) => {
 })
 window.addEventListener("keyup", (e) => {
   if (e.key === " ") {
-    keys.space = false;
+    keys.space = false
   }
 })
 
